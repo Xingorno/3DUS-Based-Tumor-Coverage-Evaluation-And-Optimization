@@ -6,9 +6,6 @@ Reference: [Real-Time GPU-Based Ultrasound Simulation Using Deformable Mesh Mode
 - C++14 compiler (tested using MinGW-w64)
 - CMake 3.2
 
-## To run
-    burgercpp examples/sphere/sphere.scene
-
 ## Third Party Libraries
 - [Bulletphysics](https://github.com/bulletphysics/bullet3) (not included)
 - [nholthaus/units](https://github.com/nholthaus/units) (header-only, included)
