@@ -2,6 +2,11 @@
 
 Reference: [Real-Time GPU-Based Ultrasound Simulation Using Deformable Mesh Models](http://sci-hub.cc/10.1109/tmi.2012.2234474) in C++ (in CPU).
 
+## How to use
+### 1. Ray casting margin generation
+Related Files:
+-
+### 2. Post-processing (draw the marign uniformity plot)
 ## Prerequisites
 - C++14 compiler (tested using MinGW-w64)
 - CMake 3.2
