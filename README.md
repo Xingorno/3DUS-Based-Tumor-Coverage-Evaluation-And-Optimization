@@ -25,7 +25,7 @@ Related Files:
 - createMarginVTK.py
 - createUniformityVTK.py
 
-## Prerequisites
+## Prerequisites and Platforms
 - OS: Ubuntu 20.04 (for Ray-casting margin margin generation)
 - C++14 compiler (tested using MinGW-w64)
 - CMake 3.2
