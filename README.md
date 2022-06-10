@@ -1,6 +1,6 @@
 # 3DUS-Based-Tumor-Coverage-Evaluation-And-Optimization
 
-Reference: 
+References: 
 - [Our previous work about ultrasound simulation](https://github.com/Xingorno/Ultrasound_Simulation_Ray_Tracing)
 - [Real-Time GPU-Based Ultrasound Simulation Using Deformable Mesh Models](http://sci-hub.cc/10.1109/tmi.2012.2234474) in C++ (in CPU).
 - Since NVIDA SDKs enable developers to make full use of the power of ray tracing on NVIDA GeForce RTX platform (https://developer.nvidia.com/rtx/ray-tracing/optix), highly suggest users can use their SDKs to reimplement our method.
