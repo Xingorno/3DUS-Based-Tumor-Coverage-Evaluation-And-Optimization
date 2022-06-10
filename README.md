@@ -1,6 +1,8 @@
 # 3DUS-Based-Tumor-Coverage-Evaluation-And-Optimization
 
-Reference: [Real-Time GPU-Based Ultrasound Simulation Using Deformable Mesh Models](http://sci-hub.cc/10.1109/tmi.2012.2234474) in C++ (in CPU).
+Reference: 
+- [Our previous work about ultrasound simulation](https://github.com/Xingorno/Ultrasound_Simulation_Ray_Tracing)
+- [Real-Time GPU-Based Ultrasound Simulation Using Deformable Mesh Models](http://sci-hub.cc/10.1109/tmi.2012.2234474) in C++ (in CPU).
 
 ## How to use
 ### 1. Ray-casting margin generation
