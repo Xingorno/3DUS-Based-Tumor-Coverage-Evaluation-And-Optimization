@@ -33,6 +33,6 @@ Related Files:
 - Matlab R2020b
 
 ## Third Party Libraries
-- [Bulletphysics](https://github.com/bulletphysics/bullet3) (not included)
+- [Bulletphysics](https://github.com/bulletphysics/bullet3) (not included, need to install separately)
 - [nholthaus/units](https://github.com/nholthaus/units) (header-only, included)
 - [nlohmann/json](https://github.com/nlohmann/json) (header-only, included)
