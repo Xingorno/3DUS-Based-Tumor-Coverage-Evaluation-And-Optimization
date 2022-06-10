@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/build",
+  "command": "/bin/c++   -I/usr/local/include/bullet -I/home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/include -isystem /usr/local/include/opencv   -fopenmp -std=c++14 -g   -o CMakeFiles/TumorCoverageEstimation.dir/src/main.cpp.o -c /home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/src/main.cpp",
+  "file": "/home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/src/main.cpp"
+},
+{
+  "directory": "/home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/build",
+  "command": "/bin/c++   -I/usr/local/include/bullet -I/home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/include -isystem /usr/local/include/opencv   -fopenmp -std=c++14 -g   -o CMakeFiles/TumorCoverageEstimation.dir/src/scene.cpp.o -c /home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/src/scene.cpp",
+  "file": "/home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/src/scene.cpp"
+},
+{
+  "directory": "/home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/build",
+  "command": "/bin/c++   -I/usr/local/include/bullet -I/home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/include -isystem /usr/local/include/opencv   -fopenmp -std=c++14 -g   -o CMakeFiles/TumorCoverageEstimation.dir/src/ray.cpp.o -c /home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/src/ray.cpp",
+  "file": "/home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/src/ray.cpp"
+},
+{
+  "directory": "/home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/build",
+  "command": "/bin/c++   -I/usr/local/include/bullet -I/home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/include -isystem /usr/local/include/opencv   -fopenmp -std=c++14 -g   -o CMakeFiles/TumorCoverageEstimation.dir/src/wavefront/tiny_obj_loader.cpp.o -c /home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/src/wavefront/tiny_obj_loader.cpp",
+  "file": "/home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/src/wavefront/tiny_obj_loader.cpp"
+}
+]

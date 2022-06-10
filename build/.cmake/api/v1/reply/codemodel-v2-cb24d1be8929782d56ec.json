@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TumorCoverageEstimation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TumorCoverageEstimation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TumorCoverageEstimation-Debug-125d611a6a7c60d9b3dc.json",
+					"name" : "TumorCoverageEstimation",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting/build",
+		"source" : "/home/sxing_l/Documents/TumorCoverage/Code/TumorCoverageRayCasting"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
