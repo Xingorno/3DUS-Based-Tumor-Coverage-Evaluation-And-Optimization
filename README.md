@@ -3,13 +3,31 @@
 Reference: [Real-Time GPU-Based Ultrasound Simulation Using Deformable Mesh Models](http://sci-hub.cc/10.1109/tmi.2012.2234474) in C++ (in CPU).
 
 ## How to use
-### 1. Ray casting margin generation
+### 1. Ray-casting margin generation
 Related Files:
--
-### 2. Post-processing (draw the marign uniformity plot)
+- src/
+- utils/
+- include/
+- examples/Sphere
+- build/
+- CMakeList.txt
+- Simulated_US.txt
+- postlog_rf.txt
+- prelog_rf.txt
+- tumor_points.txt
+### 2. Post-processing (draw the marign uniformity plot, extract surface points from vtk model, estiamte tumor coverage)
+Related Files:
+- MarginTUmorAblation/
+- Applicator_angle_distance.m
+- createMarginVTK.py
+- createUniformityVTK.py
+
 ## Prerequisites
+- OS: Ubuntu 20.04 (for Ray-casting margin margin generation)
 - C++14 compiler (tested using MinGW-w64)
 - CMake 3.2
+- vscode 1.67
+- Matlab R2020b
 
 ## Third Party Libraries
 - [Bulletphysics](https://github.com/bulletphysics/bullet3) (not included)
