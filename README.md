@@ -1,10 +1,18 @@
 # 3DUS-Based-Tumor-Coverage-Evaluation-And-Optimization
-
-References: 
-- Our previous work: [ultrasound simulation](https://github.com/Xingorno/Ultrasound_Simulation_Ray_Tracing), [Tumor coverage evaluation](https://ieeexplore.ieee.org/iel7/42/9931396/09800921.pdf)
-- [Real-Time GPU-Based Ultrasound Simulation Using Deformable Mesh Models](http://sci-hub.cc/10.1109/tmi.2012.2234474) in C++ (in CPU).
-- Since [NVIDA SDKs](https://developer.nvidia.com/rtx/ray-tracing/optix) enable developers to make full use of the power of ray tracing on NVIDA GeForce RTX platform , we highly suggest that users can use their SDKs to reimplement our method.
-
+## Citation
+If you are using our code for your research, please cite our publication:
+```
+@article{xing20223d,
+  title={3d us-based evaluation and optimization of tumor coverage for us-guided percutaneous liver thermal ablation},
+  author={Xing, Shuwei and Romero, Joeana Cambranis and Cool, Derek W and Mujoomdar, Amol and Chen, Elvis CS and Peters, Terry M and Fenster, Aaron},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={41},
+  number={11},
+  pages={3344--3356},
+  year={2022},
+  publisher={IEEE}
+}
+```
 ## How to use
 ### 1. Ray-casting margin generation
 Related Files:
@@ -36,3 +44,8 @@ Related Files:
 - [Bulletphysics](https://github.com/bulletphysics/bullet3) (not included, need to install separately)
 - [nholthaus/units](https://github.com/nholthaus/units) (header-only, included)
 - [nlohmann/json](https://github.com/nlohmann/json) (header-only, included)
+
+## Related work 
+- Our previous work: [ultrasound simulation](https://github.com/Xingorno/Ultrasound_Simulation_Ray_Tracing), [Tumor coverage evaluation](https://ieeexplore.ieee.org/iel7/42/9931396/09800921.pdf)
+- [Real-Time GPU-Based Ultrasound Simulation Using Deformable Mesh Models](http://sci-hub.cc/10.1109/tmi.2012.2234474) in C++ (in CPU).
+- Since [NVIDA SDKs](https://developer.nvidia.com/rtx/ray-tracing/optix) enable developers to make full use of the power of ray tracing on NVIDA GeForce RTX platform , we highly suggest that users can use their SDKs to reimplement our method.
