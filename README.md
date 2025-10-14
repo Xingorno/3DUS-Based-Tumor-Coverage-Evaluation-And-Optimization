@@ -7,6 +7,29 @@
 </a>
 </div>
 
+## Why Improve Tumour Coverage Evaluation?
+<p align="justify">
+In conventional US-guided ablation (Figure 1), the physician typically places a few landmarks on in-plane 2D US images to estimate the required ablation zone. Although a 5–10 mm safety margin is commonly applied in clinical practice to reduce the risk of residual tumours, this approach may still fail to ensure complete tumour coverage. Moreover, to maintain procedural safety, the physician must carefully review multiple US views to avoid ablating critical structures such as the colon (Figure 2).
+</p>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none !important; border-collapse:collapse !important; border-spacing:0 !important; border-top:0 !important; border-bottom:0 !important;">
+  <tr>
+    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
+        <img src="figs/Assessment_1.png" 
+             alt="Assessment 1" 
+             width="90%">
+      <br>
+      <a>Figure 1. Tumour coverage assessment on 2D US.</a>
+    </td>
+    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
+        <img src="figs/Assessment_2.png" 
+             alt="Assessment 2" 
+             width="90%">
+      <br>
+      <a>Figure 2. Tumour coverage assessment with surrounding structures. </a>
+    </td>
+  </tr>
+</table>
 
 ## How to use
 ### Step 1. Ray-casting margin generation
