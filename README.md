@@ -1,7 +1,15 @@
-# 3DUS-Based-Tumor-Coverage-Evaluation-And-Optimization
+
+<div align="center">
+<h1>3D US-based Tumour Coverage Evaluation and Optimization</h1>
+<a href="https://xingorno.github.io/3DLIVUS/"><img src="https://img.shields.io/badge/Project-red" alt="Project Page"></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9800921" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Publication-IEEE TMI-green" alt="Publication">
+</a>
+</div>
+
 
 ## How to use
-### 1. Ray-casting margin generation
+### Step 1. Ray-casting margin generation
 Related Files:
 - src/
 - utils/
@@ -13,7 +21,7 @@ Related Files:
 - postlog_rf.txt
 - prelog_rf.txt
 - tumor_points.txt
-### 2. Post-processing (draw the marign uniformity plot, extract surface points from vtk model, estiamte tumor coverage)
+### Step 2. Post-processing (draw the marign uniformity plot, extract surface points from vtk model, estiamte tumor coverage)
 Related Files:
 - MarginTUmorAblation/
 - Applicator_angle_distance.m
